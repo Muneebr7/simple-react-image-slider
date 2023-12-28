@@ -1,3 +1,3 @@
 # simple-react-image-slider
 
-[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/Muneebr7/simple-react-image-slider)
+This is a simple beginner level image slider built in React js. 
